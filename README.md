@@ -14,7 +14,7 @@ Screenshot Showing Searching by Employee Name:
  <img src="screenshot2.JPG" alt="screenshot2"> 
 
 Screenshot Showing Filtering:
- <img src="screenshot3.PNG" alt="screenshot3">   
+ <img src="screenshot3.png" alt="screenshot3">   
 <br>
 
 
