@@ -4,7 +4,7 @@ import './style.css'
 function Navbar(){
     return (
         <nav>
-            <h1>Employee Directory</h1>
+            <h1>2021 Employee Directory</h1>
         </nav>
     )
 }

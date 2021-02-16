@@ -6,7 +6,7 @@ function Table(props){
         <table style={{width: "100%"}}>
             <thead>
                 <tr>
-                <th>Image</th>
+                <th></th>
                 <th>Name</th>
                 <th>Phone Number <button className='filter' onClick={props.sortNumber}><i className="fas fa-filter"></i></button></th>
                 <th>Email <button className='filter' onClick={props.sortEmail}><i className="fas fa-filter"></i></button></th>
